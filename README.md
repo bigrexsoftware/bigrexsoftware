@@ -14,5 +14,7 @@
 
 ⛱️ Dune Profile: https://dune.com/robynblair
 
+👩🏻‍💼 LinkedIn Profile: https://www.linkedin.com/in/robbiehaasch/
+
 ⚡ Fun fact: I learned to play a musical saw from my grandfather.
 
