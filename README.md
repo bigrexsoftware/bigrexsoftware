@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi, I’m Robbi (Robyn) working with @BigRexSoftware
+👋 Hi, I’m Robbie (Robyn) working with @BigRexSoftware
 
 🌵 I am based in Phoenix, Arizona.
 
