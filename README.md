@@ -12,5 +12,3 @@
 - 🦖 GitHub: https://github.com/robynblair
 - ⚡ Fun fact: I learned to play a musical saw from my grandfather.
 
-Emojis: 
-https://emojidb.org/
