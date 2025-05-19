@@ -9,5 +9,5 @@
 - 👩🏻‍💼 LinkedIn Profile: https://www.linkedin.com/in/robbiehaasch/
 - 👩🏻‍💻 GitHub: https://github.com/bigrexsoftware
 - 🦖 GitHub: https://github.com/robynblair
-- ⚡ Fun fact: I learned to play a musical saw from my grandfather.
+- ⚡ Fun fact: I learned to play a musical saw from my grandfather. I need a new violin bow to play it again.
 
