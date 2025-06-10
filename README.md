@@ -10,5 +10,5 @@
 - 👩🏻‍💻 GitHub: https://github.com/bigrexsoftware
 - 🦖 GitHub: https://github.com/robynblair
 - ⚡ Fun fact: I learned to play a musical saw from my grandfather. I need a new violin bow to play it again.
-- ⚡ Fun fact: I recently bought a Pioneer DDJ-FLX4 DJ console to practice mixing music.
+- ⚡ Fun fact: I recently bought an AlphaTheta (Pioneer) DDJ-FLX4 DJ console to practice mixing music.
 
