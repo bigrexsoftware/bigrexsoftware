@@ -5,7 +5,7 @@
 - 🌱 I'm also currently working on a new application for job seekers using Blazor and LaTeX.
 - 💞️ I’m wanting to collaborate on creating technical projects for LGBTQ+ people and communities.
 - 📫 How to reach me: Robyn@BigRex.com
-- ⚡ Big Rex Software YouTube Channel:: https://www.youtube.com/@bigrexsoftware
+- ⚡ Big Rex Software YouTube Channel: https://www.youtube.com/@bigrexsoftware
 - 👩🏻‍💼 LinkedIn Profile: https://www.linkedin.com/in/robbiehaasch/
 - 📝 Resume: https://www.sandangel.com/resume.txt
 - 📝 Resume: https://www.sandangel.com/resume.docx
