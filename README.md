@@ -13,6 +13,6 @@
 - 👩🏻‍💻 GitHub: https://github.com/bigrexsoftware
 - 🦖 GitHub: https://github.com/robynblair
 - ⚡ Fun fact: I recently bought an AlphaTheta (Pioneer) DDJ-FLX4 DJ console to practice mixing music.
-- ⚡ Fun fact: I learned to play a musical saw from my grandfather.
+- ⚡ Fun fact: I learned to play a musical saw from my grandfather
 - ⚡ Favorite Coding Site: freeCodeCamp - https://www.freecodecamp.org
 - ⚡ Javascript PlayGround Code Editor - https://playcode.io/javascript
